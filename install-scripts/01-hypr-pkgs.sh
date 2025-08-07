@@ -24,7 +24,6 @@ hypr_package=(
   inxi 
   jq
   kitty
-  kvantum
   libspng
   nano  
   network-manager-applet 
@@ -33,9 +32,6 @@ hypr_package=(
   playerctl
   python-requests
   python-pyquery
-  qt5ct
-  qt6ct
-  qt6-svg
   rofi-wayland
   slurp 
   swappy 
